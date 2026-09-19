@@ -1,16 +1,18 @@
-## Hi there 👋
+<h3 align="center"> Dylan Moore </h3>
 
-<!--
-**DylanM3/DylanM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.dylanmoore.tech/">Website</a> •
+  <a href="https://github.com/DylanM3">GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🏛️ Currently working as **Full Time Student** at **Exeter College**
+- 📖 Learning: **Web Development w/ The Odin Project**
+- 📍 Based in: **Devon, England**
+- ⚡ Fun fact: I completed an IRONMAN 70.3 at 16
+- 📫 Reach me: [dylanxmoore0@gmail.com](mailto:dylanxmoore0@gmail.com)
+
+
+---
